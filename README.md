@@ -1,2 +1,3 @@
-# CS112
-Data Structures 
+CS112
+
+Data Structures ~ Simple Linked List Configurations
